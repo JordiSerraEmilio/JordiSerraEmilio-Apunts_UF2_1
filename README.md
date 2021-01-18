@@ -1,7 +1,7 @@
 # Apunts-M05
 ## 1.Proves
 ### 1.1 FORMA DE LES PROVES
-- **Proves dinàmiques:** importa saber el comportament de la execució del programadel final de l'aplicació.  
+- **Proves dinàmiques:** importa saber el comportament de la execució del final del programa.  
 - **Proves estàtiques:** importa com esta formada, el codi font.
 
 ### 1.2 ESTRATEGIES DE PROVA
