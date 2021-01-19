@@ -27,3 +27,41 @@ Uns recursos poden ser:
 ### 1.4.3 TIPUS DE PROVES
 - **Funcionals:** evaluen el cumpliment dels requisits/objectius de l'aplicació que ens interesen.
 - **No funcionals:** evaluen aspectes adicionals com pot ser el rendiment, seguritat...
+
+## 1.5 INTEGRACIÓ
+### 1.5.1 FORMES D'INTEGRACIÓ
+- Integració Big bang
+- Integració Descendent
+- Integració Ascendent
+- Integració Contínua (CI)
+
+### 1.5.2 COBERTURA DEL CÓDI
+És una mesura que indica el porcentatge de códi que ha sigut executat durant les proves.
+
+## 1.6 INTEGRACIÓ
+### 1.6.2 CONTROL DE QÜALITAT
+Per aconeseguir una mesura de la qüalitat del producte necessitem fer proves.
+### 1.6.3 TIPUS DE QÜALITATS
+- Proccés: garantitzar la qüalitat en els processos.  
+- Productes: garantitzar la qüalitat dels productes. Trobar defectes en els productes.
+### 1.6.4 FACTORS DE QÜALITAT I
+- Operació del producte
+- Revisió del producte
+- Transició del producte
+### 1.6.5 FACTORS DE QÜALITAT II
+#### Operació del producte
+- Correció
+- Fiabilitat
+- Eficiència
+- Seguretat
+- Facilitat de l'ús
+### 1.6.6 FACTORS DE QÜALITAT III
+#### Revisió del producte
+- Manteniment
+- Flexibilitat
+- Facilitat de prova
+### 1.6.7 FACTORS DE QÜALITAT IV
+#### Transició del producte
+- Portabilitat
+- Reusabilitat
+- Interoperativitat
