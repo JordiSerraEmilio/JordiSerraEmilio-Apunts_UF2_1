@@ -17,7 +17,7 @@ Uns recursos poden ser:
 - biblioteques
 ## 1.4 PROVES
 ### 1.4.1 FORMA DE LES PROVES
-- **Proves dinàmiques:** importa saber el comportament de la execució del programadel final de l'aplicació.
+- **Proves dinàmiques:** importa saber el comportament de la execució del programa del final de l'aplicació.
 - **Proves estàtiques:** importa com esta formada, el codi font.
 
 ### 1.4.2 ESTRATEGIES DE PROVA
