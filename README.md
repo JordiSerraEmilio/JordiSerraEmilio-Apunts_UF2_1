@@ -97,7 +97,7 @@ La refactorització serveix per reestructurar codi font, alternant la seva estru
 ##1.9 Documentació
 ###1.9.1 Tipus de documentació
 - Documentació del codi (JavaDoc)
-- Documentació tècnica ()
+- Documentació tècnica (Per reparar/substituir codi)
 - Documentació d'usuari (manual de la funcionalitat)
 
 ### Formats de Documentació
