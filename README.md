@@ -38,7 +38,7 @@ Uns recursos poden ser:
 ### 1.5.2 COBERTURA DEL CÓDI
 És una mesura que indica el porcentatge de códi que ha sigut executat durant les proves.
 
-## 1.6 INTEGRACIÓ
+## 1.6 QÜALITAT
 ### 1.6.2 CONTROL DE QÜALITAT
 Per aconeseguir una mesura de la qüalitat del producte necessitem fer proves.
 ### 1.6.3 TIPUS DE QÜALITATS
@@ -65,3 +65,44 @@ Per aconeseguir una mesura de la qüalitat del producte necessitem fer proves.
 - Portabilitat
 - Reusabilitat
 - Interoperativitat
+
+## 1.8 Optimització
+La optimització del codi, és canviar part del codi per un altre més curt i més eficient fent/aconseguint el mateix resultat.
+###1.8.1 Hediondez del codi
+El hediondez del código significa que hi poden haber problemes futurs en el codi.
+Exemples:  
+- Còdi duplicat  
+- Un mètode que conté molt de codi en canvi de separar-ho en varis.  
+- Els noms de les variables massa llargs  
+- Una clase molt sencilla que es pot integrar en una d’altre.  
+
+###1.8.2 Anàlisis del codi
+Tipus:  
+Anàlisis dinàmic (unit test com pot ser el JUnit)  
+Anàlisis estàtic (lint)
+
+####1.8.2.1 Linters
+- Lint (C)
+- Sonar (Java)
+- JSLint, ESLint (Javascript)
+
+####1.8.2.2 Continuous Analysis
+Llocs web que ofereixen inspecci del codi.
+- Scrutinizer
+- SonarQube
+
+###1.8.3 Refactorització
+La refactorització serveix per reestructurar codi font, alternant la seva estructura interna sense canviar el comportament extern.
+
+##1.9 Documentació
+###1.9.1 Tipus de documentació
+- Documentació del codi (JavaDoc)
+- Documentació tècnica ()
+- Documentació d'usuari (manual de la funcionalitat)
+
+### Formats de Documentació
+- HTML (JavaDoc)
+- Markdown (GitHub)
+- reStructuredText (Readthedocs)
+- asciiDoc
+
