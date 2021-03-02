@@ -67,7 +67,8 @@ Per aconeseguir una mesura de la qüalitat del producte necessitem fer proves.
 - Interoperativitat
 
 ## 1.8 Optimització
-La optimització del codi, és canviar part del codi per un altre més curt i més eficient fent/aconseguint el mateix resultat.
+La optimització del codi, és canviar part del codi per un altre més curt i més eficient fent/aconseguint el mateix resultat.  
+
 ###1.8.1 Hediondez del codi
 El hediondez del código significa que hi poden haber problemes futurs en el codi.
 Exemples:  
@@ -76,26 +77,26 @@ Exemples:
 - Els noms de les variables massa llargs  
 - Una clase molt sencilla que es pot integrar en una d’altre.  
 
-###1.8.2 Anàlisis del codi
+### 1.8.2 Anàlisis del codi
 Tipus:  
 Anàlisis dinàmic (unit test com pot ser el JUnit)  
 Anàlisis estàtic (lint)
 
-####1.8.2.1 Linters
+#### 1.8.2.1 Linters
 - Lint (C)
 - Sonar (Java)
 - JSLint, ESLint (Javascript)
 
-####1.8.2.2 Continuous Analysis
+#### 1.8.2.2 Continuous Analysis
 Llocs web que ofereixen inspecci del codi.
 - Scrutinizer
 - SonarQube
 
-###1.8.3 Refactorització
+### 1.8.3 Refactorització
 La refactorització serveix per reestructurar codi font, alternant la seva estructura interna sense canviar el comportament extern.
 
-##1.9 Documentació
-###1.9.1 Tipus de documentació
+## 1.9 Documentació  
+### 1.9.1 Tipus de documentació
 - Documentació del codi (JavaDoc)
 - Documentació tècnica (Per reparar/substituir codi)
 - Documentació d'usuari (manual de la funcionalitat)
