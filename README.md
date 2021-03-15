@@ -30,10 +30,10 @@ Uns recursos poden ser:
 
 ## 1.5 INTEGRACIÓ
 ### 1.5.1 FORMES D'INTEGRACIÓ
-- Integració Big bang
-- Integració Descendent
-- Integració Ascendent
-- Integració Contínua (CI)
+- Integració Big bang: els elements del software i hardware s'uneixen en un component en canvi de varies fases.  
+- Integració Descendent: prova el component de més alt nivell de la jerarquía primer i els de més baix nivell mitjançants stubs.
+- Integració Ascendent: els components de baix nivell es comproven primer, i són utilitzats per comprovar més fàcilment els d'alt nivell.
+- Integració Contínua (CI): es va comprovant el codi mitjançant és va aplicant.
 
 ### 1.5.2 COBERTURA DEL CÓDI
 És una mesura que indica el porcentatge de códi que ha sigut executat durant les proves.
