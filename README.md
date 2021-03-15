@@ -51,7 +51,7 @@ Ex:
 ### 1.6.2 CONTROL DE QÜALITAT
 Per aconeseguir una mesura de la qüalitat del producte necessitem fer proves.
 ### 1.6.3 TIPUS DE QÜALITATS
-- **Proccés:** control de qüalitat per veure com s'està desenvolupant el producte.  
+- **Proccés:** control de qüalitat de cada proccès o mètode.  
 - **Productes**: garantitzar la qüalitat dels productes. Trobar defectes en els productes ja acabats.
 ### 1.6.4 FACTORS DE QÜALITAT I
 - Operació del producte
